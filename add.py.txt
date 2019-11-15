@@ -1,0 +1,4 @@
+def subtraction(x,y):
+	print("subtracting two numbers")
+	sub = x-y
+	return sub
